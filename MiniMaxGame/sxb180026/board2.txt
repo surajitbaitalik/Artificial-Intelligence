@@ -1,0 +1,8 @@
+Board Position : xxxWWWxxxWxxxxxxxxxxxxx
+Positions evaluated by static estimation : 399
+MiniMax estimate : 6
+
+Board Position : WWWxxxxxxWxxxxxxxWxxxxx
+Positions evaluated by static estimation : 717
+MiniMax estimate : 7
+
